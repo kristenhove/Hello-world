@@ -1,0 +1,13 @@
+body {background-color: lightblue;}
+h1 {font-family: fantasy;text-align: center;transform: rotate(0.5turn);}
+nav a {font-family: fantasy;font-size: small;}
+nav {background-color:pink;}
+main {margin-left: 5em;}
+nav {border-style: dashed;text-align: center;}
+nav {margin: 5em;}
+section {margin: 5em;}
+img {margin: 2em;}
+a {margin: 5em;}
+a:hover {color: blue;}
+a:active {color: purple;}
+p {font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: medium;text-align: center;}
